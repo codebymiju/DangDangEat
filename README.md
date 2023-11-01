@@ -3,8 +3,13 @@
     </div>
     <br>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> DANGDANGEAT ver.2 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 반려동물 사료 쇼핑몰 '댕댕잇'</li><li> 개발 기간 : 2022.12 ~ 2023.01</li> </div> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> DANGDANGEAT ver.2 </h2>  
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+            <li> 반려동물 간식 쇼핑몰 사이트 '댕댕잇'</li>
+            <li> 1차 개발 기간 : 2022.12 ~ 2023.01 (jsp기반)</li> 
+            <li> 2차 개발 기간 : 2023.02 ~ 2023.03 (스프링 컨버전)</li> 
+            <li> 개발 인원 : 6명</li> 
+        </div>
     </div>
     <br>
     <div align= "center">
