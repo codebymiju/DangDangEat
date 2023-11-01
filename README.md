@@ -2,9 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=ea7434&height=120&text=🐶DANGDANGEAT&animation=&fontColor=000000&fontSize=60" />
     </div>
     <br>
-    <div align= "center"> 
+    <div align= "left"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> DANGDANGEAT ver.2 </h2>  
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
             <li> 반려동물 간식 쇼핑몰 사이트 '댕댕잇'</li>
             <li> ver.1 개발 기간 : 2022.12 ~ 2023.01 (jsp기반)</li> 
             <li> ver.2 개발 기간 : 2023.02 ~ 2023.03 (스프링 컨버전)</li> 
@@ -12,12 +12,12 @@
         </div>
     </div>
     <br>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
     </div>
     
   <div>
-    <div style="margin: 0 auto; text-align: center;" align= "center">
+    <div style="margin: 0 auto; text-align: center;" align= "left">
         <h3> Environment </h3>
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
         <h3> Development </h3>
