@@ -6,8 +6,8 @@
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> DANGDANGEAT ver.2 </h2>  
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
             <li> 반려동물 간식 쇼핑몰 사이트 '댕댕잇'</li>
-            <li> ver.1 개발 기간 : 2022.12 ~ 2023.01 (jsp기반)</li> 
-            <li> ver.2 개발 기간 : 2023.02 ~ 2023.03 (스프링 컨버전)</li> 
+            <li> ver.1 개발 기간 : 2022.12.12 ~ 2023.01.13 (jsp기반)</li> 
+            <li> ver.2 개발 기간 : 2023.02.27 ~ 2023.03.22 (스프링 컨버전)</li> 
             <li> 개발 인원 : 6명</li> 
         </div>
     </div>
@@ -39,27 +39,6 @@
       <br>
     </div>
   </div>
-  
-<div align= "center"> 
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact us </h2> <br> 
-    </div>
-    
 
-|      김미주       |          김자경         |       문예람         |                                                                                                               
-| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://github.com/sourgummy/muhansangsa/blob/main/MuhanSangsa/src/main/webapp/resources/images/mijoo_profile.png" />    |                      <img width="160px" src="https://github.com/sourgummy/muhansangsa/blob/main/MuhanSangsa/src/main/webapp/resources/images/jakyoung_profile.png" />    |                   <img width="160px" src="https://github.com/sourgummy/muhansangsa/blob/main/MuhanSangsa/src/main/webapp/resources/images/yeram_profile.png"/>   |
-|   [@codebymiju](https://github.com/codebymiju) <br> <a href="mailto:miju.kim.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=miju.kim.kr@gmail.com"/></a>  |    [@chz5kjk0](https://github.com/chz5kjk0) <br> <a href="mailto:chz5kjk0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chz5kjk0@gmail.com"/></a>  | [@sourgummy](https://github.com/s) <br> <a href="mailto:creamy.9416@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=creamy.9416@gmail.com"/></a>  |
-| 팀장 <br> 주문 페이지 <br> 결제 페이지 | 로그인, ID/PW 찾기 <br> 회원정보 수정 <br> 회원 관리 <br> 마이페이지 | 깃허브 총괄 <br> 장바구니 구현 <br> 위시리스트 구현 <br> 관리자 메인 페이지 |
-
-
-
-
-|      오상우       |          이하원         |       전세원         |                                                                                                               
-| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://github.com/sourgummy/muhansangsa/blob/main/MuhanSangsa/src/main/webapp/resources/images/sangwoo_profile.png" />    |                      <img width="160px" src="https://github.com/sourgummy/muhansangsa/blob/main/MuhanSangsa/src/main/webapp/resources/images/hawon_profile.png" />    |                   <img width="160px" src="https://github.com/sourgummy/muhansangsa/blob/main/MuhanSangsa/src/main/webapp/resources/images/sewon_profile.png"/>   |
-|   [@SwEclipse](https://github.com/SwEclipse) <br> <a href="mailto:ayh77779412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ayh77779412@gmail.com"/></a>   |    [@trumpetflor](https://github.com/trumpetflor) <br> <a href="mailto:trumpetflor@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trumpetflor@gmail.com"/></a>  | [@WONIEEWOW](https://github.com/WONIEEWOW) <br> <a href="mailto:eyedsw@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eyedsw@gmail.com"/></a>  |
-| 회원가입 <br> 이메일 인증 기능 <br> 주소 API <br> 게시판 | 쿠폰 등록 및 수정 <br> 쿠폰 발행 기능 <br> 마이페이지 쿠폰 목록 | 상품 목록 / 상세 <br> 상품 검색 <br> 관리자 - 상품 관리 |
 
   
-    
